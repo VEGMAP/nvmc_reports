@@ -1,7 +1,7 @@
 ---
-title: "VEGETATION MAP PROJECT 2025 MID-YEAR PROGRESS REPORT"
-author: "Anisha Dayaram"
-subtitle: "Reporting Period: November 2024 to May 2025"
+title: "VEGETATION MAP PROJECT 2025 YEAR-END PROGRESS REPORT"
+author: "Anisha Dayaram and Kagiso Mogajane"
+subtitle: "Reporting Period: May 2025 to November 2025"
 title-block-banner: "#728944"
 title-block-banner-color: white
 format: 
