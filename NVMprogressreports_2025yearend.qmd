@@ -111,7 +111,7 @@ The table is an overview of the progress since November 2024. Note that items co
 
 We have collected observations for 327 vegetation types across the country so far, 26 more since our last update. Please have a look at Kagiso’s latest blog post for more information by clicking on the image below. The project proved its worth as we were able to select landscape images from VEGMAPhoto for the Poster, the NBA terrestrial ecosystem webpage as well as various presentations through the year. Therefore it is becoming a valuable resource.
 
-[![*Latest distribution of iNaturalist observations for the VEGMAPhoto project. Areas in a darker shade have relatively more observations*](imgs/iNatNov2025.png){width="579"}](https://www.inaturalist.org/posts/119810-vegmaphoto-s-afr-progress-report-november-2025)
+[![Latest distribution of iNaturalist observations for the VEGMAPhoto project. Areas in a darker shade have relatively more observations](imgs/iNatNov2025.png){width="579"}](https://www.inaturalist.org/posts/119810-vegmaphoto-s-afr-progress-report-november-2025)
 
 About 75% of these observations have the ecological integrity field populated. The majority of the \>7000 observations are from natural and semi-natural localities.
 
@@ -128,7 +128,7 @@ BGIS has uploaded a map viewer for NVM 2024 that can be accessed [here](https://
 ::: {.panel-tabset style="background-color:#A6C875"}
 ## Proposals ready for review
 
-######      Mapping proposals: {style="colour: purple"}
+###### Mapping proposals: {style="colour: purple"}
 
 1.  [Eastern Little Karoo:]{.underline} Annelise and Jan Vlok noted that a few polygons of Eastern Little Karoo that should be reassigned to Willowmore Gwarrieveld and North Kammanassie Sandstone Fynbos. We have prepared a proposal for consideration by the NVMC.
 
@@ -164,7 +164,9 @@ Several of our emerging researchers have some exciting news. Below is an update 
 +------------------+-------------+-------------------------------------------------------------+--------------------------+-----------------------------------------------------------------------------------------------+
 | Kagiso Mogajane  | SANBI       | RA ends in December 2026                                    | Received bursary for MSc | Just received a bursary for MSc with SANBI on ecological condition                            |
 +------------------+-------------+-------------------------------------------------------------+--------------------------+-----------------------------------------------------------------------------------------------+
-| Joshua Giddy     |             |                                                             |                          |                                                                                               |
+| Joshua Giddy     | UFS         | Gd8                                                         | Graduated                | Environmental Specialist (Terrestrial Ecologist) at the Environmental Management Group (EMG). |
++------------------+-------------+-------------------------------------------------------------+--------------------------+-----------------------------------------------------------------------------------------------+
+| Curtley Tonkin   | UCT         |                                                             |                          | Started Phd studies                                                                           |
 +------------------+-------------+-------------------------------------------------------------+--------------------------+-----------------------------------------------------------------------------------------------+
 
 In addition, some of our interns are co-authors on a popular article profiling past emerging scientists associated with VEGMAP and the version submitted to the CREW newsletter can be read [[here]{.underline}](https://drive.google.com/file/d/12SGSIAx2K9ZfFadL1qhuiTFaUHf7cZV2/view?usp=sharing "click here to read a draft of the article").
